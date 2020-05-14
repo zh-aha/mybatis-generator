@@ -13,7 +13,7 @@ public class BigO {
 			while ( i <= n){
 				i = i * 2;
 			}
-		}    
+		}
 		while( i <= n){
 			 i = i * 3;		//O(logn)
 		}

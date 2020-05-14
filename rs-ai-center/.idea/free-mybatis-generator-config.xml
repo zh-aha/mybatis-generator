@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PersistentConfig">
+    <option name="historyConfigList">
+      <map>
+        <entry key="data">
+          <value>
+            <Config>
+              <option name="annotationDAO" value="true" />
+              <option name="comment" value="true" />
+              <option name="daoMvnPath" value="src/main/java" />
+              <option name="daoName" value="DataDao" />
+              <option name="daoPackage" value="com.sungolden.aimodel.dao" />
+              <option name="daoPostfix" value="Dao" />
+              <option name="jsr310Support" value="true" />
+              <option name="modelMvnPath" value="src/main/java" />
+              <option name="modelName" value="Data" />
+              <option name="modelPackage" value="com.sungloden.aimodel.dto" />
+              <option name="name" value="data" />
+              <option name="needForUpdate" value="true" />
+              <option name="overrideJava" value="true" />
+              <option name="overrideXML" value="true" />
+              <option name="primaryKey" value="id" />
+              <option name="projectFolder" value="$PROJECT_DIR$/ai-model" />
+              <option name="tableName" value="data" />
+              <option name="useDAOExtendStyle" value="true" />
+              <option name="useExample" value="true" />
+              <option name="useLombokPlugin" value="true" />
+              <option name="useSchemaPrefix" value="true" />
+              <option name="useTableNameAlias" value="true" />
+              <option name="xmlMvnPath" value="src/main/java" />
+              <option name="xmlPackage" value="com.sungolden.aimodel.dao" />
+            </Config>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="initConfig">
+      <map>
+        <entry key="initConfig">
+          <value>
+            <Config>
+              <option name="annotationDAO" value="true" />
+              <option name="comment" value="true" />
+              <option name="daoPackage" value="com.sungolden.aimodel.dao" />
+              <option name="daoPostfix" value="Dao" />
+              <option name="jsr310Support" value="true" />
+              <option name="modelPackage" value="com.sungloden.aimodel.dto" />
+              <option name="name" value="initConfig" />
+              <option name="needForUpdate" value="true" />
+              <option name="overrideJava" value="true" />
+              <option name="overrideXML" value="true" />
+              <option name="projectFolder" value="$PROJECT_DIR$/ai-model" />
+              <option name="useDAOExtendStyle" value="true" />
+              <option name="useExample" value="true" />
+              <option name="useLombokPlugin" value="true" />
+              <option name="useSchemaPrefix" value="true" />
+              <option name="useTableNameAlias" value="true" />
+              <option name="xmlPackage" value="com.sungolden.aimodel.dao" />
+            </Config>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
